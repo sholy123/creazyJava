@@ -1,6 +1,5 @@
 package com.sholy.chapter4;
 
-import java.util.SplittableRandom;
 
 public class TestArray {
     public static void main(String[] args) {
